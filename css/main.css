@@ -1691,6 +1691,10 @@ input::-moz-focus-inner {
   top: 50%;
 }
 
+.header-buttons {
+    margin-top: 20px; /* Ajuste o valor conforme necessário */
+}
+
 .header-logo a {
   display: block;
   border: none;
