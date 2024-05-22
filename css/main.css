@@ -1670,7 +1670,7 @@ input::-moz-focus-inner {
 }
 
 .header-content {
-  height: 8.8rem;
+  height: 10.0rem;
   position: relative;
 }
 
@@ -1692,7 +1692,7 @@ input::-moz-focus-inner {
 }
 
 .header-buttons {
-    margin-top: 100px; /* Ajuste o valor conforme necessário */
+    margin-top: 0px; /* Ajuste o valor conforme necessário */
 }
 
 .header-logo a {
@@ -1712,8 +1712,8 @@ input::-moz-focus-inner {
  * ## main navigation
  * ------------------------------------------------------------------- */
 .header-nav-wrap {
-  max-width: 1400px;
-  padding-left: 10px;
+  max-width: 1700px;
+  padding-left: 20px;
 }
 
 .header-nav {
@@ -1837,8 +1837,8 @@ input::-moz-focus-inner {
   border-color: #ffffff;
   color: #ffffff;
   margin: 0;
-  padding: 0 4rem;
-  font-size: 1.1rem;
+  padding: 0 8rem;
+  font-size: 4rem;
   -webkit-transform: translate3d(0, -50%, 0);
   transform: translate3d(0, -50%, 0);
   position: absolute;
