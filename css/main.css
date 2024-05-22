@@ -1692,7 +1692,7 @@ input::-moz-focus-inner {
 }
 
 .header-buttons {
-    margin-top: 0px; /* Ajuste o valor conforme necessário */
+    margin-top: 100px; /* Ajuste o valor conforme necessário */
 }
 
 .header-logo a {
@@ -1712,8 +1712,8 @@ input::-moz-focus-inner {
  * ## main navigation
  * ------------------------------------------------------------------- */
 .header-nav-wrap {
-  max-width: 1700px;
-  padding-left: 20px;
+  max-width: 1000px;
+  padding-left: 10px;
 }
 
 .header-nav {
